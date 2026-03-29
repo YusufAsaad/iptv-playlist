@@ -6,5 +6,20 @@ https://ava5.store/upload/ava.m3u8
 #EXTINF:-1 tvg-id="ch2" tvg-name="Waar TV" group-title="KURDI", WAAR TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ch3" tvg-name="KURDMAXSHOW Badini" group-title="KURDI", KURDMAXSHOW Badini
-https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
+#EXTINF:-1 tvg-id="ch3" tvg-name="KURDMAX Badini" group-title="KURDI", KURDMAX Badini
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch4" tvg-name="AVA FAMILY" group-title="KURDI", AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ch5" tvg-name="KURDISTAN TV" group-title="KURDI", KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch6" tvg-name="KURDISTAN24" group-title="KURDI", K24
+https://d1x82nydcxndze.cloudfront.net/live/index_240p25.m3u8
+
+#EXTINF:-1 tvg-id="ch7" tvg-name="CHANNEL8 KURDI" group-title="KURDI", CHANNEL8 KURDI
+https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="ch8" tvg-name="ZAROK TV" group-title="KURDI", ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8

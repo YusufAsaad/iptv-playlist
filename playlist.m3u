@@ -9,6 +9,12 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarme
 #EXTINF:-1 tvg-id="ch3" tvg-name="KURDMAX Badini" group-title="KURDI", KURDMAX Badini
 https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KurdMaxSorani.iq@SD" tvg-logo="https://i.imgur.com/JkK8HG8.png" group-title="KURDI",KurdMax Sorani (1080p)
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KurdMaxShow.iq@SD" tvg-logo="https://i.imgur.com/XTmyGmL.png" group-title="KURDI",KurdMax Show (720p)
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ch4" tvg-name="AVA FAMILY" group-title="KURDI", AVA FAMILY
 https://familyhls.avatv.live/hls/stream.m3u8
 
@@ -16,10 +22,13 @@ https://familyhls.avatv.live/hls/stream.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch6" tvg-name="KURDISTAN24" group-title="KURDI", K24
-https://d1x82nydcxndze.cloudfront.net/live/index_240p25.m3u8
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 
-#EXTINF:-1 tvg-id="ch7" tvg-name="CHANNEL8 KURDI" group-title="KURDI", CHANNEL8 KURDI
-https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" group-title="KURDI",Channel 8 Kurdish (720p)
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="KurdChannel.iq@SD" tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="KURDI",Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="ch8" tvg-name="ZAROK TV" group-title="KURDI", ZAROK TV
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
@@ -44,3 +53,9 @@ https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 
 #EXTINF:-1 tvg-id="AlkassSeven.qa@SD" tvg-logo="https://i.imgur.com/3eyHP3S.png" group-title="Sports",Alkass Seven (1080p)
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqia.iq@SD" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="Iraq",Al Iraqia (720p)
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq@SD" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="Iraq",Al Iraqia News (720p)
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8

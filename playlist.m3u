@@ -24,6 +24,9 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ch6" tvg-name="KURDISTAN24" group-title="KURDI", K24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 
+#EXTINF:-1 tvg-id="ch9" tvg-name="DUHOKTV" group-title="KURDI", DUHOKTV
+https://duhok.badinan.xyz/live/DuhokTV/chunklist_w1918553077.m3u8
+
 #EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" group-title="KURDI",Channel 8 Kurdish (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 
